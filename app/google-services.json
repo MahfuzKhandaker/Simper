@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "614509388283",
+    "firebase_url": "https://simper-bd831.firebaseio.com",
+    "project_id": "simper-bd831",
+    "storage_bucket": "simper-bd831.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:614509388283:android:1b0776d780adf72b",
+        "android_client_info": {
+          "package_name": "com.example.mahfuzkhandaker.simper"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "614509388283-5mk7c3proj59gpvgv684i0r5n7vcb5me.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.mahfuzkhandaker.simper",
+            "certificate_hash": "ec803def3de0f97f7993c54682ca022f838f7a43"
+          }
+        },
+        {
+          "client_id": "614509388283-ilr9o9h22ebj7vt0o84nbet2lom7blvh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAS_AK0t2hwNhJLqUTK_o2YX481QYhj6gs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "614509388283-ilr9o9h22ebj7vt0o84nbet2lom7blvh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
